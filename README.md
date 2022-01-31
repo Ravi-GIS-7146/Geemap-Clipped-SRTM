@@ -1,0 +1,1 @@
+# Geemap-Clipped-SRTM
